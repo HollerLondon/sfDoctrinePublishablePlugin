@@ -1,0 +1,2 @@
+all:
+  publishable_enable_predql: true
